@@ -81,5 +81,4 @@ public abstract class Vehiculo {
 		this(matricula, numBastidor, color, numAsientos, precio, new Serie(marca, modelo, añoFabricacion));
 	}
 
-	
 }
